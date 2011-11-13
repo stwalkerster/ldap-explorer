@@ -51,5 +51,10 @@ namespace LdapExplorer
         {
             throw new NotImplementedException();
         }
+
+        private void optionsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
